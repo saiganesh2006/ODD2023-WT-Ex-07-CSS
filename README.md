@@ -488,7 +488,7 @@ You can test the dark mode by toggling your system's dark mode setting (if your 
 ![Screenshot 2023-12-13 151701](https://github.com/saiganesh2006/ODD2023-WT-Ex-07-CSS/assets/145742342/5588efcd-8925-4813-bf7d-e65605bd4366)
 
 ## RESULT:
-Therefore, functionalities of CSS media queries are clearly demonstrated using examples for each type.
+## Therefore, functionalities of CSS media queries are clearly demonstrated using examples for each type.
 
 ## DEVELOPED BY: D.B.V.SAI GANESH
 ## REGISTER NUMBER: 212223240025
