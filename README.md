@@ -1,4 +1,4 @@
-### Ex-07-CSS
+## Ex-07-CSS
 
 ## AIM:
 Using CSS media queries, modify the webpage's color scheme with the following requirements:
